@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 jajdsajjsd
 dsdsa
+=======
+opopa
+papaparoror
+>>>>>>> bc9f0158c6f4275bc79e76047b4d1f02c4f595e3
